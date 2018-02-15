@@ -1,1 +1,1 @@
-# bascoin
+# KrippCoin
